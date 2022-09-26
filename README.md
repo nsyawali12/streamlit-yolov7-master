@@ -4,9 +4,7 @@
 </p>
 Display predicted Video, Images and webcam using YOLOv7 model with Streamlit
 
-Streamlit Dashboard: https://naseemap47-streamlit-yolov7-app-deploy-bfr4xt.streamlitapp.com/
-
-Streamlit Server don't have GPU, so to deploy model, I used `deploy` branch (without **GPU** option)
+Streamlit Server doesn't have GPU, so to deploy the model, I used `deploy` branch (without **GPU** option)
 
 Only `master` contain all codes and details. (both **GPU** and **CPU** options)
 
@@ -19,7 +17,7 @@ So better to clone `master` branch and run in your own system
  - Image
  ## StepUp
 ```
-git clone https://github.com/naseemap47/streamlit-yolov7.git
+git clone https://github.com/joel5638/streamlit-yolov7-master.git
 cd streamlit-yolov7
 ```
 Install dependency
