@@ -1,0 +1,7 @@
+abu-kecil
+hijau-besar
+hijau-kecil
+hitam-kecil
+kuning-besar
+kuning-kecil
+putih-kecil
